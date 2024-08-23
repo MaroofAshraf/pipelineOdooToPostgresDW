@@ -1,0 +1,5 @@
+apache-airflow==2.3.0
+odoorpc==0.7.0
+pandas==1.5.3
+SQLAlchemy==2.0.10
+psycopg2-binary==2.9.6
